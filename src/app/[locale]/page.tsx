@@ -85,7 +85,7 @@ export default function CatShrinePage() {
           <T>
             <div className="text-center float" style={{ animationDelay: "0s" }}>
               <div className="cat-img inline-block">
-                <img src="https://placekitten.com/300/300" alt="Sir Fluffington III" width={200} height={200} style={{ filter: "sepia(80%) contrast(120%)", width: 200, height: 200, objectFit: "cover" }} />
+                <img src="https://cataas.com/cat?width=300&height=300&_=1" alt="Sir Fluffington III" width={200} height={200} style={{ filter: "sepia(80%) contrast(120%)", width: 200, height: 200, objectFit: "cover" }} />
               </div>
               <h3 className="text-[#ff00ff] font-bold mt-2 text-lg">Sir Fluffington III</h3>
               <p className="text-[#c0c0c0] text-sm mt-1">A majestic feline of noble bearing and impeccable whiskers</p>
@@ -94,7 +94,7 @@ export default function CatShrinePage() {
           <T>
             <div className="text-center" style={{ animationDelay: "0.5s" }}>
               <div className="cat-img inline-block">
-                <img src="https://placekitten.com/350/250" alt="Princess Meowsworth" width={200} height={200} style={{ filter: "grayscale(60%) brightness(110%)", width: 200, height: 200, objectFit: "cover" }} />
+                <img src="https://cataas.com/cat?width=350&height=250&_=2" alt="Princess Meowsworth" width={200} height={200} style={{ filter: "grayscale(60%) brightness(110%)", width: 200, height: 200, objectFit: "cover" }} />
               </div>
               <h3 className="text-[#ff00ff] font-bold mt-2 text-lg">Princess Meowsworth</h3>
               <p className="text-[#c0c0c0] text-sm mt-1">Ruler of all she surveys, especially the kitchen counter</p>
@@ -103,7 +103,7 @@ export default function CatShrinePage() {
           <T>
             <div className="text-center float" style={{ animationDelay: "1s" }}>
               <div className="cat-img inline-block">
-                <img src="https://placekitten.com/280/320" alt="Captain Whiskerface" width={200} height={200} style={{ filter: "saturate(200%) hue-rotate(20deg)", width: 200, height: 200, objectFit: "cover" }} />
+                <img src="https://cataas.com/cat?width=280&height=320&_=3" alt="Captain Whiskerface" width={200} height={200} style={{ filter: "saturate(200%) hue-rotate(20deg)", width: 200, height: 200, objectFit: "cover" }} />
               </div>
               <h3 className="text-[#ff00ff] font-bold mt-2 text-lg">Captain Whiskerface</h3>
               <p className="text-[#c0c0c0] text-sm mt-1">Brave explorer of cardboard boxes and paper bags</p>
@@ -112,7 +112,7 @@ export default function CatShrinePage() {
           <T>
             <div className="text-center" style={{ animationDelay: "1.5s" }}>
               <div className="cat-img inline-block">
-                <img src="https://placekitten.com/320/280" alt="Lady Purrcelot" width={200} height={200} style={{ filter: "sepia(40%) contrast(130%) brightness(90%)", width: 200, height: 200, objectFit: "cover" }} />
+                <img src="https://cataas.com/cat?width=320&height=280&_=4" alt="Lady Purrcelot" width={200} height={200} style={{ filter: "sepia(40%) contrast(130%) brightness(90%)", width: 200, height: 200, objectFit: "cover" }} />
               </div>
               <h3 className="text-[#ff00ff] font-bold mt-2 text-lg">Lady Purrcelot</h3>
               <p className="text-[#c0c0c0] text-sm mt-1">Elegant and refined, with a taste for the finest tuna</p>
@@ -121,7 +121,7 @@ export default function CatShrinePage() {
           <T>
             <div className="text-center float" style={{ animationDelay: "2s" }}>
               <div className="cat-img inline-block">
-                <img src="https://placekitten.com/260/260" alt="Baron Von Snuggles" width={200} height={200} style={{ filter: "grayscale(100%)", width: 200, height: 200, objectFit: "cover" }} />
+                <img src="https://cataas.com/cat?width=260&height=260&_=5" alt="Baron Von Snuggles" width={200} height={200} style={{ filter: "grayscale(100%)", width: 200, height: 200, objectFit: "cover" }} />
               </div>
               <h3 className="text-[#ff00ff] font-bold mt-2 text-lg">Baron Von Snuggles</h3>
               <p className="text-[#c0c0c0] text-sm mt-1">Professional napper and champion biscuit maker</p>
@@ -130,7 +130,7 @@ export default function CatShrinePage() {
           <T>
             <div className="text-center" style={{ animationDelay: "2.5s" }}>
               <div className="cat-img inline-block">
-                <img src="https://placekitten.com/340/300" alt="Duchess Fuzzypaws" width={200} height={200} style={{ filter: "sepia(60%) saturate(150%)", width: 200, height: 200, objectFit: "cover" }} />
+                <img src="https://cataas.com/cat?width=340&height=300&_=6" alt="Duchess Fuzzypaws" width={200} height={200} style={{ filter: "sepia(60%) saturate(150%)", width: 200, height: 200, objectFit: "cover" }} />
               </div>
               <h3 className="text-[#ff00ff] font-bold mt-2 text-lg">Duchess Fuzzypaws</h3>
               <p className="text-[#c0c0c0] text-sm mt-1">Keeper of secrets and destroyer of curtains</p>
@@ -200,13 +200,13 @@ export default function CatShrinePage() {
           <div className="text-center mb-10">
             <h2 className="text-2xl text-[#ffff00] mb-4 font-bold">Cool Cat Links</h2>
             <div className="flex flex-wrap justify-center gap-4">
-              <span className="text-[#00ffff] underline hover:text-[#ff00ff] cursor-pointer">Cat Pictures Ring</span>
+              <a href="https://www.reddit.com/r/cats/" target="_blank" rel="noopener noreferrer" className="text-[#00ffff] underline hover:text-[#ff00ff]">Cat Pictures Ring</a>
               <span className="text-[#00ffff]">|</span>
-              <span className="text-[#00ffff] underline hover:text-[#ff00ff] cursor-pointer">Feline Fan Club</span>
+              <a href="https://icatcare.org/" target="_blank" rel="noopener noreferrer" className="text-[#00ffff] underline hover:text-[#ff00ff]">Feline Fan Club</a>
               <span className="text-[#00ffff]">|</span>
-              <span className="text-[#00ffff] underline hover:text-[#ff00ff] cursor-pointer">Cat GIF Archive</span>
+              <a href="https://giphy.com/search/cats" target="_blank" rel="noopener noreferrer" className="text-[#00ffff] underline hover:text-[#ff00ff]">Cat GIF Archive</a>
               <span className="text-[#00ffff]">|</span>
-              <span className="text-[#00ffff] underline hover:text-[#ff00ff] cursor-pointer">Whiskers WebRing</span>
+              <a href="https://en.wikipedia.org/wiki/Cat" target="_blank" rel="noopener noreferrer" className="text-[#00ffff] underline hover:text-[#ff00ff]">Whiskers WebRing</a>
             </div>
           </div>
         </T>
