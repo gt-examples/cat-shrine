@@ -1,0 +1,528 @@
+{
+  "15aef3cabe7e6673": {
+    "c": [
+      {
+        "c": {
+          "d": {
+            "alt": "Captain Whiskerface"
+          },
+          "i": 3,
+          "t": "img"
+        },
+        "i": 2,
+        "t": "div"
+      },
+      {
+        "c": "Captain Whiskerface",
+        "i": 4,
+        "t": "h3"
+      },
+      {
+        "c": "Intrépide explorateur de cartons et de sacs en papier",
+        "i": 5,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "168cbf5d53a41de7": {
+    "c": [
+      {
+        "c": {
+          "d": {
+            "alt": "Duchess Fuzzypaws"
+          },
+          "i": 3,
+          "t": "img"
+        },
+        "i": 2,
+        "t": "div"
+      },
+      {
+        "c": "Duchess Fuzzypaws",
+        "i": 4,
+        "t": "h3"
+      },
+      {
+        "c": "Gardienne de secrets et destructrice de rideaux",
+        "i": 5,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "1dcc6253be31ec40": [
+    {
+      "c": "Panthéon des chats célèbres",
+      "i": 1,
+      "t": "h2"
+    },
+    {
+      "c": "Ces magnifiques créatures honorent notre sanctuaire de leur beauté",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "565a8547f3596615": {
+    "c": [
+      {
+        "c": ">>> ",
+        "i": 2,
+        "t": "span"
+      },
+      "EN CONSTRUCTION - Plus de chats à venir bientôt !!!",
+      {
+        "c": " <<<",
+        "i": 3,
+        "t": "span"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "5e6666b4be6841f5": {
+    "c": [
+      {
+        "c": {
+          "d": {
+            "alt": "Baron Von Snuggles"
+          },
+          "i": 3,
+          "t": "img"
+        },
+        "i": 2,
+        "t": "div"
+      },
+      {
+        "c": "Baron Von Snuggles",
+        "i": 4,
+        "t": "h3"
+      },
+      {
+        "c": "Roupilleur professionnel et champion du pétrissage",
+        "i": 5,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "5f474a3653524a39": {
+    "c": [
+      {
+        "i": 2,
+        "t": "div"
+      },
+      {
+        "c": "Fait avec amour et HTML par CatWebmaster1997",
+        "i": 3,
+        "t": "p"
+      },
+      {
+        "c": "Dernière mise à jour : 14 février 1997",
+        "i": 4,
+        "t": "p"
+      },
+      {
+        "c": "Cette page fait partie du CatLovers WebRing",
+        "i": 5,
+        "t": "p"
+      },
+      {
+        "c": "Propulsé par General Translation",
+        "i": 6,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "footer"
+  },
+  "63937b4d2be87b47": {
+    "c": [
+      {
+        "c": "Vous êtes le visiteur numéro :",
+        "i": 2,
+        "t": "p"
+      },
+      {
+        "c": {
+          "i": 4,
+          "k": "_gt_n_4",
+          "v": "n"
+        },
+        "i": 3,
+        "t": "p"
+      },
+      {
+        "c": "Depuis le 1er janvier 1997",
+        "i": 5,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "6c7c2feb4729ea6e": {
+    "c": [
+      {
+        "c": "Liens Cool Cat",
+        "i": 2,
+        "t": "h2"
+      },
+      {
+        "c": [
+          {
+            "c": "Anneau de photos de chats",
+            "i": 4,
+            "t": "span"
+          },
+          {
+            "c": "|",
+            "i": 5,
+            "t": "span"
+          },
+          {
+            "c": "Club des fans félins",
+            "i": 6,
+            "t": "span"
+          },
+          {
+            "c": "|",
+            "i": 7,
+            "t": "span"
+          },
+          {
+            "c": "Archive de GIFs de chats",
+            "i": 8,
+            "t": "span"
+          },
+          {
+            "c": "|",
+            "i": 9,
+            "t": "span"
+          },
+          {
+            "c": "Whiskers WebRing",
+            "i": 10,
+            "t": "span"
+          }
+        ],
+        "i": 3,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "6ddd073ef0b26611": {
+    "c": [
+      {
+        "c": {
+          "d": {
+            "alt": "Lady Purrcelot"
+          },
+          "i": 3,
+          "t": "img"
+        },
+        "i": 2,
+        "t": "div"
+      },
+      {
+        "c": "Lady Purrcelot",
+        "i": 4,
+        "t": "h3"
+      },
+      {
+        "c": "Élégante et raffinée, avec un goût pour le meilleur thon",
+        "i": 5,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "a268a51937bd1f16": {
+    "c": [
+      {
+        "c": "Faits étonnants sur les chats",
+        "i": 2,
+        "t": "h2"
+      },
+      {
+        "c": [
+          {
+            "c": [
+              {
+                "c": ">>>",
+                "i": 5,
+                "t": "span"
+              },
+              {
+                "c": "Les chats dorment environ 70 % de leur vie. Ils ont la bonne idée !",
+                "i": 6,
+                "t": "span"
+              }
+            ],
+            "i": 4,
+            "t": "li"
+          },
+          {
+            "c": [
+              {
+                "c": ">>>",
+                "i": 8,
+                "t": "span"
+              },
+              {
+                "c": "Un groupe de chats s'appelle une « clowder ». Un groupe de chatons s'appelle une « kindle » !",
+                "i": 9,
+                "t": "span"
+              }
+            ],
+            "i": 7,
+            "t": "li"
+          },
+          {
+            "c": [
+              {
+                "c": ">>>",
+                "i": 11,
+                "t": "span"
+              },
+              {
+                "c": "Les chats émettent plus de 20 vocalisations, dont le célèbre ronronnement qui vibre à une fréquence favorisant la guérison des os !",
+                "i": 12,
+                "t": "span"
+              }
+            ],
+            "i": 10,
+            "t": "li"
+          },
+          {
+            "c": [
+              {
+                "c": ">>>",
+                "i": 14,
+                "t": "span"
+              },
+              {
+                "c": "Le premier chat dans l'espace était un chat français nommé Félicette en 1963. Elle a survécu au voyage !",
+                "i": 15,
+                "t": "span"
+              }
+            ],
+            "i": 13,
+            "t": "li"
+          },
+          {
+            "c": [
+              {
+                "c": ">>>",
+                "i": 17,
+                "t": "span"
+              },
+              {
+                "c": "Les anciens Égyptiens se rasaient les sourcils à la mort de leur chat en signe de deuil.",
+                "i": 18,
+                "t": "span"
+              }
+            ],
+            "i": 16,
+            "t": "li"
+          }
+        ],
+        "i": 3,
+        "t": "ul"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "ad36c930069dbd51": {
+    "c": [
+      {
+        "c": {
+          "d": {
+            "alt": "Sir Fluffington III"
+          },
+          "i": 3,
+          "t": "img"
+        },
+        "i": 2,
+        "t": "div"
+      },
+      {
+        "c": "Sir Fluffington III",
+        "i": 4,
+        "t": "h3"
+      },
+      {
+        "c": "Un félin majestueux au port noble et aux moustaches impeccables",
+        "i": 5,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "b673716c0c45d7ef": {
+    "c": [
+      {
+        "c": {
+          "d": {
+            "alt": "Princess Meowsworth"
+          },
+          "i": 3,
+          "t": "img"
+        },
+        "i": 2,
+        "t": "div"
+      },
+      {
+        "c": "Princess Meowsworth",
+        "i": 4,
+        "t": "h3"
+      },
+      {
+        "c": "Souveraine de tout ce qu'elle contemple, surtout le comptoir de cuisine",
+        "i": 5,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "b95be78462c14343": {
+    "c": [
+      {
+        "c": "Livre d'or",
+        "i": 2,
+        "t": "h2"
+      },
+      {
+        "c": "Signez mon livre d'or et parlez-moi de VOS chats !!!",
+        "i": 3,
+        "t": "p"
+      },
+      {
+        "c": [
+          {
+            "c": [
+              {
+                "c": "xX_CatLover99_Xx",
+                "i": 6,
+                "t": "p"
+              },
+              {
+                "c": "Super page !!! Mon chat Whiskers vous dit bonjour !!!",
+                "i": 7,
+                "t": "p"
+              }
+            ],
+            "i": 5,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "~*KittyQueen*~",
+                "i": 9,
+                "t": "p"
+              },
+              {
+                "c": "C'est la meilleure page sur les chats d'internet ! Ajoutée à mes favoris !",
+                "i": 10,
+                "t": "p"
+              }
+            ],
+            "i": 8,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "FelinesForever2000",
+                "i": 12,
+                "t": "p"
+              },
+              {
+                "c": "J'ai 7 chats et ils ont tous approuvé ce site. Cinq étoiles !!!",
+                "i": 13,
+                "t": "p"
+              }
+            ],
+            "i": 11,
+            "t": "div"
+          }
+        ],
+        "i": 4,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "d661f9d6a6221315": {
+    "c": [
+      "Bienvenue au MEILLEUR Sanctuaire des Chats !!! La meilleure page sur les chats du World Wide Web !!! Vous êtes le visiteur numéro ",
+      {
+        "i": 2,
+        "k": "_gt_n_2",
+        "v": "n"
+      },
+      " !!! Veuillez signer mon livre d'or !!!"
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "d9a7df0864706810": {
+    "c": [
+      {
+        "c": "=^.^=",
+        "i": 2,
+        "t": "span"
+      },
+      {
+        "c": "Sanctuaire des chats",
+        "i": 3,
+        "t": "span"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "d9f6e6fdfdd465a4": "Un sanctuaire de chats façon GeoCities des années 90, entièrement internationalisé avec General Translation.",
+  "e7faa8478a63ced6": {
+    "c": {
+      "c": "Ceci est un exemple d'application construite avec General Translation pour démontrer l'internationalisation. Aucun chat n'a été blessé lors de la création de ce site web.",
+      "i": 2,
+      "t": "p"
+    },
+    "i": 1,
+    "t": "div"
+  },
+  "f9c390330ac8cdef": "Sanctuaire de chats | General Translation",
+  "fd14ae7b5e319be1": {
+    "c": [
+      {
+        "c": "Le Sanctuaire Ultime des Chats",
+        "i": 2,
+        "t": "h1"
+      },
+      {
+        "c": "Un lieu sacré dédié au culte de nos suzerains félins",
+        "i": 3,
+        "t": "p"
+      },
+      {
+        "c": "Meilleure expérience avec Netscape Navigator à une résolution de 800x600",
+        "i": 4,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  }
+}
